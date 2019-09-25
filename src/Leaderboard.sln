@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAngular", "WebAngular\WebAngular.csproj", "{344EE00A-AE1A-4042-B7D8-D545B6A40BA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebReact", "WebReact\WebReact.csproj", "{1966D432-D316-48AB-B2FA-5830C48B37A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebReact", "WebReact\WebReact.csproj", "{1966D432-D316-48AB-B2FA-5830C48B37A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebEmpty", "WebEmpty\WebEmpty.csproj", "{B230AF84-5CF4-4FEF-9732-C0010E135A27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebEmpty", "WebEmpty\WebEmpty.csproj", "{B230AF84-5CF4-4FEF-9732-C0010E135A27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMvc", "WebMvc\WebMvc.csproj", "{1CAC0100-AF33-497C-A262-9C927D25F119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebMvc", "WebMvc\WebMvc.csproj", "{1CAC0100-AF33-497C-A262-9C927D25F119}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBlazor", "WebBlazor\WebBlazor.csproj", "{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBlazor", "WebBlazor\WebBlazor.csproj", "{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{344EE00A-AE1A-4042-B7D8-D545B6A40BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{344EE00A-AE1A-4042-B7D8-D545B6A40BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{344EE00A-AE1A-4042-B7D8-D545B6A40BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{344EE00A-AE1A-4042-B7D8-D545B6A40BA3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
