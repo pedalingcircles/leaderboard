@@ -3,14 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29318.209
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebReact", "WebReact\WebReact.csproj", "{1966D432-D316-48AB-B2FA-5830C48B37A2}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebEmpty", "WebEmpty\WebEmpty.csproj", "{B230AF84-5CF4-4FEF-9732-C0010E135A27}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebMvc", "WebMvc\WebMvc.csproj", "{1CAC0100-AF33-497C-A262-9C927D25F119}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebBlazor", "WebBlazor\WebBlazor.csproj", "{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}"
 EndProject
 Global
@@ -19,22 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1966D432-D316-48AB-B2FA-5830C48B37A2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B230AF84-5CF4-4FEF-9732-C0010E135A27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B230AF84-5CF4-4FEF-9732-C0010E135A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B230AF84-5CF4-4FEF-9732-C0010E135A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B230AF84-5CF4-4FEF-9732-C0010E135A27}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1CAC0100-AF33-497C-A262-9C927D25F119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1CAC0100-AF33-497C-A262-9C927D25F119}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1CAC0100-AF33-497C-A262-9C927D25F119}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1CAC0100-AF33-497C-A262-9C927D25F119}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F24DBCF6-3CB0-40B2-BD6C-8026F7F29144}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCFE42EE-9115-4DD2-AE04-B1F2D6467CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
